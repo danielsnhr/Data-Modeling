@@ -26,8 +26,8 @@ data-modeling/
 │   ├── Results and Limitations     # Analytical capabilities and limitations
 │   └── Source and Credit           # Dataset attribution and learning resources
 │
-├── powerbi/
-│   └── commercial_data_model.pbix  # Power BI project with the redesigned data model
+├── 1) data-model                   # Power BI project with the redesigned data model
+│ 
 │
 └── images/
     ├── before_model.png            # Original 23-table operational data model
