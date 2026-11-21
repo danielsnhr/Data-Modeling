@@ -94,7 +94,7 @@ I rebuilt the model as a **star schema** using **Kimball-style dimensional model
 | Dates | No date table, mixed formats | `dim_date` shared across facts, one date format |
 | Measures | None | Central `_measures` table |
 | Security | None | Row-level security by region |
-| Data quality | Test records, duplicates, empty and redundant columns | Removed or fixed (see [How I Kept the Numbers Right](#how-i-kept-the-numbers-right)) |
+| Data quality | Test records, duplicates, empty and redundant columns | Removed or fixed (see [How I Kept the Numbers Right](#4-how-i-kept-the-numbers-right)) |
 
 <details>
 <summary><b>See all 23 changes</b></summary>
