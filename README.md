@@ -227,5 +227,3 @@ Two problems were caught this way:
 
 [↑ Back to top](#data-modeling)
 
-
-Built as a guided project from [Built with Data With Baraa]
